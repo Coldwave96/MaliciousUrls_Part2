@@ -22,5 +22,4 @@
  
  ### 依赖包
  
-  sklearn、
-  scapy_http
+  sklearn、scapy_http
