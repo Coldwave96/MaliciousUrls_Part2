@@ -16,3 +16,11 @@
  
   url样式参照样本文件，同时提供pcap.py实现从pcap包中自动提取http包的url。
   
+ ### 运行环境
+ 
+  python 3.7
+ 
+ ### 依赖包
+ 
+  sklearn
+  scapy_http
