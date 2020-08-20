@@ -127,7 +127,7 @@ class Baseframe(object):
         except FileNotFoundError:
             printT('Start Kmeans: ')
 
-            clf = KMeans(n_clusters=k, precompute_distances=False )
+            clf = KMeans(n_clusters=k, precompute_distances=False)
 
             s = clf.fit(weight)
             printT(s)
