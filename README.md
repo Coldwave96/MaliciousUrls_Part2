@@ -31,6 +31,8 @@
  
 * git clone 项目 or 下载 Release
 
+* cd 项目文件夹 && `pip3 install -r requirements.txt`
+
 * 待检测url在start.py中设置
 
 * `python3 start.py`即可训练模型并自动预测，打包的项目文件里已经有训练好的模型，可以直接运行
